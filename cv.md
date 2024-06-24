@@ -17,3 +17,22 @@ Aspiring frontend developer seeking opportunities to learn and grow in the field
 * Quick learner with a passion for new technologies
 * Responsive web design
 
+## Code Example
+
+```function solution(str){
+  return str.split("").reverse().join("");
+}
+solution("Hello Rs-School")
+```
+## Experience
+
+## Educatiom
+
+* University Imi-Nova(Marketing major)
+* CS50 courses
+* Udemy courses
+* Freecodecamp
+
+## English
+### B2
+
