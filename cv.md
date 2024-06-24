@@ -19,7 +19,8 @@ Aspiring frontend developer seeking opportunities to learn and grow in the field
 
 ## Code Example
 
-```function solution(str){
+```
+function solution(str){
   return str.split("").reverse().join("");
 }
 solution("Hello Rs-School")
